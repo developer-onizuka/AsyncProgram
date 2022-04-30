@@ -89,9 +89,9 @@ The second is SomeMethod(2000) in task2.<br>
 Even though the above, task2 will not finish because of "await" in task2. It is waiting for the completion of task1. <br>
 After finising of task1, task2 will finish.<br>
 
-(4) The "task1 finished" is task1 is desplayed.
-(5) The "task2 finished" is task2 is desplayed.
-(6) The "task3 finished" is task3 is desplayed.
+(4) The "task1 finished" is task1 is desplayed.<br>
+(5) The "task2 finished" is task2 is desplayed.<br>
+(6) The "task3 finished" is task3 is desplayed.<br>
 
 
 Finally, the race of CheckPoint<A,B,C,D> and each Task can not be controlled.<br>
