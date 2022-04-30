@@ -94,7 +94,7 @@ After finising of task1, task2 will finish.<br>
 (6) The "task3 finished" in task3 is desplayed.<br>
 
 
-Finally, the race of CheckPoint<A,B,C,D> and each Task can not be controlled.<br>
+Finally, the race between CheckPoint<A,B,C,D> and each Task can not be controlled.<br>
 But CheckPoint E must be performed after "await" of task3.
 
 All of above is a reason about the output of the Async program of mine.
