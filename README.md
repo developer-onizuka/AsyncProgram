@@ -26,7 +26,7 @@ The "async" is a symbol of start to run asynchronous program. You can find some 
 It is very simillar to **"Barrier Synchronization"** in MPI which are used in High performance computing.<br>
 
 ```
-        static async Task Main()
+        static **async** Task Main()
         {
             Console.WriteLine("--- CheckPoint A ---");
             
@@ -34,13 +34,16 @@ It is very simillar to **"Barrier Synchronization"** in MPI which are used in Hi
           
             Console.WriteLine("--- CheckPoint B ---");
             
-            int result = await task3;
+            int result = **await** task3;
             
             Console.WriteLine("--- CheckPoint C ---");
             
             Console.WriteLine(result);
         }
 ```
+
+
+
 
 
 ```
