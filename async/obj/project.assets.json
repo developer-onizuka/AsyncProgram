@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vagrant/Async/async2/async.csproj",
+      "projectUniqueName": "/home/vagrant/Async/AsyncProgram/async/async.csproj",
       "projectName": "async",
-      "projectPath": "/home/vagrant/Async/async2/async.csproj",
+      "projectPath": "/home/vagrant/Async/AsyncProgram/async/async.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/vagrant/Async/async2/obj/",
+      "outputPath": "/home/vagrant/Async/AsyncProgram/async/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

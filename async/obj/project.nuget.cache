@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b14tcCO5BK7QOYQOLFqRGHW0MuvSObSVRHUaU1VssXWy5w1pnFoM1g1ZZ/BlBSHgQyi26HUF2KJb6E7EsfcM5Q==",
+  "dgSpecHash": "jOxGR5yNHEQnCt0wJg5WezyUB9AqNpbxC+MVBZ0zvEQlkzDqGsXjTLqpATOG9Eb1ZhoJswycuq5p9EKRFCBv2g==",
   "success": true,
-  "projectFilePath": "/home/vagrant/Async/async2/async.csproj",
+  "projectFilePath": "/home/vagrant/Async/AsyncProgram/async/async.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
