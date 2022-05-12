@@ -67,8 +67,8 @@ Then, the order must be
 --- CheckPoint B ---
 --- CheckPoint C ---
 --- CheckPoint D ---
---- CheckPoint E ---
 12300
+--- CheckPoint E ---
 ```
 
 # 3. Async/Await in Lambda
