@@ -5,16 +5,16 @@
 # dotnet run
 --- CheckPoint A ---
 --- CheckPoint B ---
+task1 started.
 --- CheckPoint C ---
 --- CheckPoint D ---
-task1 started.
 task2 started.
 task3 started.
 task1 finished.
 task2 finished.
 task3 finished.
---- CheckPoint E ---
 12300
+--- CheckPoint E ---
 ```
 or
 ```
@@ -24,13 +24,13 @@ or
 task1 started.
 --- CheckPoint C ---
 --- CheckPoint D ---
-task2 started.
 task3 started.
+task2 started.
 task1 finished.
 task2 finished.
 task3 finished.
---- CheckPoint E ---
 12300
+--- CheckPoint E ---
 ```
 
 # 2. What is an Async program
