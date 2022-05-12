@@ -71,8 +71,8 @@ Then, the order must be
 --- CheckPoint E ---
 ```
 
-# 3. Async/Await in Lamda
-In task1's Lamda, there is no Async/Await pair. But there is an Async/Await pair in task2 and task3 each. <br>
+# 3. Async/Await in Lambda
+In task1's Lambda, there is no Async/Await pair. But there is an Async/Await pair in task2 and task3 each. <br>
 
 The order is <br>
 
